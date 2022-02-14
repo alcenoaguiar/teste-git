@@ -29,5 +29,6 @@
 */
 
 function nomeDaFuncao() {
-
+    console.log( 2);
 }
+nomeDaFuncao()
